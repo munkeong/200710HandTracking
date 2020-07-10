@@ -9,5 +9,6 @@ Flask
 #tensorflow==1.15.0
 #protobuf>=3.6.1
 setuptools>=36
+opencv-python
 six
 matplotlib==1.5.3
